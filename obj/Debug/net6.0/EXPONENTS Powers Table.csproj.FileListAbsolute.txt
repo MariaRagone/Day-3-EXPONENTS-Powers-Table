@@ -1,0 +1,30 @@
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.exe
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.deps.json
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.runtimeconfig.json
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.dll
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.pdb
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.AssemblyInfo.cs
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.dll
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\refint\EXPONENTS Powers Table.dll
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.pdb
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.genruntimeconfig.cache
+C:\Users\maria\source\repos\EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\ref\EXPONENTS Powers Table.dll
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.exe
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.deps.json
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.runtimeconfig.json
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.dll
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\bin\Debug\net6.0\EXPONENTS Powers Table.pdb
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.AssemblyInfo.cs
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.dll
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\refint\EXPONENTS Powers Table.dll
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.pdb
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\EXPONENTS Powers Table.genruntimeconfig.cache
+C:\Users\maria\source\repos\Lab 003 EXPONENTS Powers Table\EXPONENTS Powers Table\obj\Debug\net6.0\ref\EXPONENTS Powers Table.dll
